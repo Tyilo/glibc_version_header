@@ -97,8 +97,10 @@ See the chart below for glibc versions found on common Linux distributions:
 | Fedora 37       | 2.36          |
 | Fedora 38       | 2.37          |
 | Fedora 39       | 2.38          |
+| Fedora 40       | 2.39          |
 | Ubuntu 14.04    | 2.19          |
 | Ubuntu 16.04    | 2.23          |
 | Ubuntu 18.04    | 2.27          |
 | Ubuntu 20.04    | 2.31          |
 | Ubuntu 22.04    | 2.35          |
+| Ubuntu 24.04    | 2.39          |
